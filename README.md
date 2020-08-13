@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently studying Computer Science at IIT Kanpur
+📫 How to reach me: Email me hitg@iitk.ac.in
 <!--
 **hitesh-gupta-2111/hitesh-gupta-2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
